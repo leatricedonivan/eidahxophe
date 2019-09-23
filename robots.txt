@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lelaighuf.sovacool.dev/sitemap.xml
